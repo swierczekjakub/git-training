@@ -1,3 +1,3 @@
 # git-training
 
-testowy tekst
+testowy tekst!
