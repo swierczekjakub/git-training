@@ -1,4 +1,4 @@
 # git-training
 
 testowy tekst!
-First Branch
+Second Branch
